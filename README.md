@@ -20,5 +20,4 @@ Lenguajes y herramientas:
 
 Contactame 
 •	📧 noelia.c.ferrer@gmail.com
-•	📱 Telegram
-•	👤 LinkedIn
+•	LinkedIn
