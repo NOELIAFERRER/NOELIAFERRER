@@ -16,7 +16,7 @@ Lenguajes y herramientas:
 •	CSS
 •	SQL
 •	Figma
-•	Material UI
+•	Material UI/ UX.
 
 Contactame 
 •	📧 noelia.c.ferrer@gmail.com
