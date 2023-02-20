@@ -16,14 +16,15 @@ Actualmente estoy trabajando como Social Media y Advertiser Manager, expectante 
 
 
 
-### <div align="center">👋 I'm Noelia, a pasionate full-stack developer with background in digital marketing 🚀 👨‍💻 </div>  
+### <div>👋 I'm Noelia, a pasionate full-stack developer and degree in business administration 🚀 👨‍💻 </div>  
   
 
-<!-- - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)   -->
   
 
 Years ago I was looking to complement my background in Digital Marketing and I explored the world of IT.
 I was captivated by the constant challenge of this universe, which drives me to grow and improve day by day, approaching complexity with ingenuity and experiencing the power of synergy with my teammates.
+      
+
 
 - 🌱 I’m currently starting a new project for a Fashion Photographer, I'll tell you more later...
   
@@ -38,7 +39,7 @@ I was captivated by the constant challenge of this universe, which drives me to 
 
 
 ## My Skill Set  
-<table><tr><td valign="center" width="100%">
+<table><tr><td align="center" width="100%">
 
 ### Languages and Tools:  
 <div align="center">  
